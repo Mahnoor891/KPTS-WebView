@@ -197,9 +197,12 @@ Still stuck? Run `flutter doctor -v` and read the first red or yellow message. I
 
 ## 8. Team
 
-| Name | Role |
-|------|------|
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
+| Name        |
+|-------------|
+| Nida Hafeez |
+| Ayesha Abid |
+| Ayesha Khan | 
+| Mahnoor Khan |
+| Romaisa Ajaz |
 
-**Supervisor:** _Add supervisor name_
+**Supervisor:** _Dr.Humera Bashir_
